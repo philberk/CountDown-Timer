@@ -25,6 +25,12 @@ h1 {
 .countdown-container {
   display: flex;
   flex-wrap: wrap;
+  width:105%;
+  height: 200px;
+  margin-left:-8px;
+  min-width:480px;
+  overflow:hidden;
+  max-width:1920px;
   align-items: center;
   justify-content: center;
 
